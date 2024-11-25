@@ -1,0 +1,11 @@
+.q1 {border-style: solid;
+border-color: red;
+background-color: blanchedalmond;
+width: 500px; height: 500px;}
+.q2 {border-style: groove;
+border-color: darkgoldenrod;
+width: 200px; height: 100px;}
+.q3 {border-style: dashed;
+border-color: darkgoldenrod;
+background-color: yellow;
+width: 200px; height: 200px;}
